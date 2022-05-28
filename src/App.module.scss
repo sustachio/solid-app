@@ -1,0 +1,20 @@
+$primary: #f2f3f5;
+$blue: #a1d2ea;
+$secondary-light: #cebef6;
+$secondary: #8459b0;
+$extra: #4b4c60;
+
+#app {
+  height:100vh;
+  background-color: $primary;
+}
+
+#header {
+  background-color: $secondary;
+}
+
+navbar {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: $primary;
+}
